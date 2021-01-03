@@ -1,0 +1,40 @@
+Script:
+
+Heat Map Slide:
+Speak:
+'We experimented with various charts, graphs, and other methods to analyze 
+our data and hopefully prove our hypothesis.
+
+The first is this heat map that shows the covid total infections 
+per country.'
+
+Click  on the HTML: Play with it for a 10-15 seconds
+
+Slide with Sample:
+
+'We chose random sample of about 25 countries to chart and graphs. 
+And about 5 countries, that we were curious due variety reasons, countries
+that were prominent in the news.'
+
+
+
+Go through the next 2 slide. Give like 3 seconds each page.
+
+Animated Slides:
+
+' A critical criteria we learned only on is that, we needed Stringency 
+Infection rates over time. Without time element most of data didnt
+really made too much sense.'
+
+
+'Here a quick preview on our observations.'
+
+Play video:
+
+"We have chosen the top 10 months on Stringency Index and Infection 
+Rate. Each number corressponds to a month. Like 1 equals January. And 
+we visualize the mean of the 10 of each month on the 2 videos. 
+
+'As you can see with both videos you will rarely see a country on
+the same month at the saame time on the 2 videos.
+
